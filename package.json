@@ -1,0 +1,19 @@
+{
+  "name": "gulp-multi-tab",
+  "version": "0.0.1",
+  "description": "多tab",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-util": "^2.2.14",
+    "map-stream": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multi-tab"
+  ],
+  "author": "horde",
+  "license": "ISC"
+}
